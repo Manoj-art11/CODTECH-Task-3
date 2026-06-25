@@ -85,3 +85,6 @@ Overall, the Real-Time Collaborative Document Editor successfully achieves its g
    http://localhost:5173
    ```
 10. Open the same application in another browser window or another device connected to the same server. Start typing in one editor, and the changes will appear instantly in the other editor, demonstrating real-time collaborative editing.
+
+<img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/01c43202-2e01-48eb-ae19-b5cff8827a1a" />
+<img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/25400414-2fd7-48a0-a6b7-345e853457ef" />
